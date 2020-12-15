@@ -21,3 +21,5 @@ Win：[**STM32CubeMX**](https://www.st.com/en/development-tools/stm32cubemx.html
 [Phil’s Lab](https://www.youtube.com/c/PhilS94)
 
 STM32CubeIDE缩放：DPI缩放设置为 系统（增强），但是会导致代码编辑器代码稍稍模糊
+
+最终解决方案：用MX配置，IDE编辑代码并Debug。

@@ -19,3 +19,5 @@ Win：[**STM32CubeMX**](https://www.st.com/en/development-tools/stm32cubemx.html
 [KiCad STM32 + USB + Buck Converter PCB Design and JLCPCB Assembly (Update)](https://www.youtube.com/watch?v=C7-8nUU6e3E)
 
 [Phil’s Lab](https://www.youtube.com/c/PhilS94)
+
+STM32CubeIDE缩放：DPI缩放设置为 系统（增强），但是会导致代码编辑器代码稍稍模糊

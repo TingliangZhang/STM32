@@ -71,3 +71,9 @@ Programming the Adafruit Feather STM32F405 Express with STM32CubeIDE [https://ww
 TinyML: Getting Started with STM32 X-CUBE-AI [https://www.youtube.com/watch?v=crJcD...](https://www.youtube.com/watch?v=crJcDqIUbP4) 
 
 Related Project Links: Getting Started with STM32 - Timers and Timer Interrupts - [https://www.digikey.com/en/maker/proj...](https://www.youtube.com/redirect?event=video_description&v=VfbW6nfG4kw&redir_token=QUFFLUhqbVZuVkZMSlVreEt5MU5fOVhvaHd3WlE3eWlFQXxBQ3Jtc0tuQjh4ZHIyOVdwRTBvM192UWhTLUc1Z0QtVF8zdjRfWE10bldDdk0tSEVvc3VxbkR4TmRjcVJIV3FzVEZSZFRRZ2lNRHQzREhSVEtySnltZWUycE5QSkRFbkVPQmFMYzJORThHTDZvdVloN25GTXdvSQ%3D%3D&q=https%3A%2F%2Fwww.digikey.com%2Fen%2Fmaker%2Fprojects%2Fgetting-started-with-stm32-timers-and-timer-interrupts%2Fd08e6493cefa486fb1e79c43c0b08cc6)
+
+
+
+## STM32笔记
+
+USB Port Busy解决：用另一个串口UART1，接上USB转串口，用MobaXterm打开这个串口就好了。

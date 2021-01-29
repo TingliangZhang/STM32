@@ -26,7 +26,7 @@ STM32CubeIDE缩放：DPI缩放设置为 系统（增强），但是会导致代�
 
 最终解决方案：用MX配置，IDE编辑代码并Debug。
 
-
+但是如果用MX创建项目后用IDE编译会报错，找不到库。所以一定要用IDE创建并编译新项目后，再使用MX配合修改ioc文件！
 
 
 
@@ -77,3 +77,4 @@ Related Project Links: Getting Started with STM32 - Timers and Timer Interrupts 
 ## STM32笔记
 
 USB Port Busy解决：用另一个串口UART1，接上USB转串口，用MobaXterm打开这个串口就好了。
+

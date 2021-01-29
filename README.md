@@ -78,3 +78,10 @@ Related Project Links: Getting Started with STM32 - Timers and Timer Interrupts 
 
 USB Port Busy解决：用另一个串口UART1，接上USB转串口，用MobaXterm打开这个串口就好了。
 
+## I2C相关
+
+[Getting Started with STM32 - I2C Example](https://www.digikey.com/en/maker/projects/getting-started-with-stm32-i2c-example/) BY SHAWNHYMEL
+
+the [SparkFun TMP102 Breakout Board to test the device](https://www.digikey.com/product-detail/en/sparkfun-electronics/SEN-13314/1568-1520-ND/6797646).
+
+If you would like to learn more about the I2C protocol, I recommend this [tutorial from SparkFun](https://learn.sparkfun.com/tutorials/i2c/all).
